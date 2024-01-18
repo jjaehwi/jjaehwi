@@ -1,12 +1,10 @@
 # 👋 Welcome To My GitHub!
 
 ## 🧑‍💻 안녕하세요. 이 재휘입니다!
-
 - JaeHwi Lee
 - Graduate Student
 - Brain and Machine Intelligence Lab. (BMIL)
 - Soongsil University, Seoul, Republic of Korea
-  
 - Email: dlwognl99@soongsil.ac.kr
 - Lab: https://bmil.ssu.ac.kr
 
