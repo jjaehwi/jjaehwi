@@ -7,7 +7,8 @@
 - Soongsil University, Seoul, Republic of Korea
 - Email: dlwognl99@soongsil.ac.kr
 - Lab: https://bmil.ssu.ac.kr
-
+- Website: https://sites.google.com/view/jaehwi
+  
 ## 📝 Areas of Interest
 - Deep Reinforcement Learning (DRL)
 - Decision-making Process
