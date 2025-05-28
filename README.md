@@ -1,19 +1,20 @@
 # 👋 Welcome To My GitHub!
 
-## 🧑‍💻 안녕하세요. 이 재휘입니다!
+## 🧑‍💻 Hi, I'm Jaehwi Lee!
 - JaeHwi Lee
 - Graduate Student
 - Brain and Machine Intelligence Lab. (BMIL)
 - Soongsil University, Seoul, Republic of Korea
-- Email: dlwognl99@soongsil.ac.kr
+- Email: jaehwilee@soongsil.ac.kr
 - Lab: https://bmil.ssu.ac.kr
 - Website: https://sites.google.com/view/jaehwi
   
 ## 📝 Areas of Interest
 - Deep Reinforcement Learning (DRL)
 - Decision-making Process
-- Computational Neuroscience
 - Autonomous Driving with DRL
+- Military Decision-making
+- Computational Neuroscience
 
 ## 🛠 Technology Stacks
 
