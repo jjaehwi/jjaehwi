@@ -10,7 +10,7 @@
 - Website: https://sites.google.com/view/jaehwi
   
 ## 📝 Areas of Interest
-- Deep Reinforcement Learning (DRL)
+- Deep Reinforcement Learning, Distributional Reinforcement Learning
 - Decision-making Process
 - Autonomous Driving with DRL
 - Military Decision-making
